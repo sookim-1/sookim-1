@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+로고
+<img src="https://img.shields.io/badge/iOS-#000000?style=flat-square&logo=iOS&logoColor=white"/></a>&nbsp 
 <!--
 **sookim-1/sookim-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
